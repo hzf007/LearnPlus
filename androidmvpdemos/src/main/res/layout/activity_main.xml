@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.aspsine.mobi.androidmvpdemos.view.MainActivity">
+    tools:context=".demo1.view.MainActivity">
     <EditText
         android:id="@+id/username"
         android:layout_width="match_parent"

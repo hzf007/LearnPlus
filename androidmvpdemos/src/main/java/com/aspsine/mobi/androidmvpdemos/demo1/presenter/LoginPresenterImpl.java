@@ -1,9 +1,9 @@
-package com.aspsine.mobi.androidmvpdemos.presenter;
+package com.aspsine.mobi.androidmvpdemos.demo1.presenter;
 
-import com.aspsine.mobi.androidmvpdemos.listener.OnLoginFinishedListener;
-import com.aspsine.mobi.androidmvpdemos.model.LoginModel;
-import com.aspsine.mobi.androidmvpdemos.model.LoginModelImpl;
-import com.aspsine.mobi.androidmvpdemos.view.LoginView;
+import com.aspsine.mobi.androidmvpdemos.demo1.listener.OnLoginFinishedListener;
+import com.aspsine.mobi.androidmvpdemos.demo1.model.LoginModel;
+import com.aspsine.mobi.androidmvpdemos.demo1.model.LoginModelImpl;
+import com.aspsine.mobi.androidmvpdemos.demo1.view.LoginView;
 
 /**
  * Created by hzf on 2017/3/1 0001.

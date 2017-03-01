@@ -1,7 +1,6 @@
-package com.aspsine.mobi.androidmvpdemos.view;
+package com.aspsine.mobi.androidmvpdemos.demo1.view;
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -9,8 +8,8 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.aspsine.mobi.androidmvpdemos.R;
-import com.aspsine.mobi.androidmvpdemos.presenter.LoginPresenter;
-import com.aspsine.mobi.androidmvpdemos.presenter.LoginPresenterImpl;
+import com.aspsine.mobi.androidmvpdemos.demo1.presenter.LoginPresenter;
+import com.aspsine.mobi.androidmvpdemos.demo1.presenter.LoginPresenterImpl;
 
 public class MainActivity extends Activity implements LoginView,View.OnClickListener {
 

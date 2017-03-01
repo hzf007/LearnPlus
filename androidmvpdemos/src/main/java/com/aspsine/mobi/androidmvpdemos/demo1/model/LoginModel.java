@@ -1,6 +1,6 @@
-package com.aspsine.mobi.androidmvpdemos.model;
+package com.aspsine.mobi.androidmvpdemos.demo1.model;
 
-import com.aspsine.mobi.androidmvpdemos.listener.OnLoginFinishedListener;
+import com.aspsine.mobi.androidmvpdemos.demo1.listener.OnLoginFinishedListener;
 
 /**
  * Created by hzf on 2017/3/1 0001.

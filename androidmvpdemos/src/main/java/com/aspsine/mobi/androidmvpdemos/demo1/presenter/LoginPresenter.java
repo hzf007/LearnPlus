@@ -1,4 +1,4 @@
-package com.aspsine.mobi.androidmvpdemos.presenter;
+package com.aspsine.mobi.androidmvpdemos.demo1.presenter;
 
 /**
  * Created by hzf on 2017/3/1 0001.
