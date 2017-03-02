@@ -1,1 +1,1 @@
-include ':app', ':androidmvpdemos'
+include ':app', ':androidmvpdemos', ':mvparms'

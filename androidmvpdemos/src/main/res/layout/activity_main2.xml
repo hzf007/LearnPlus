@@ -11,18 +11,22 @@
     android:orientation="vertical"
     tools:context="com.aspsine.mobi.androidmvpdemos.demo2.view.Main2Activity">
     <EditText
+        android:textColor="#000000"
         android:id="@+id/et_login_username"
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="40dp" />
     <EditText
+        android:textColor="#000000"
         android:id="@+id/et_login_password"
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="40dp" />
     <Button
+        android:text="登录"
         android:id="@+id/btn_login_login"
         android:layout_width="match_parent"
         android:layout_height="40dp" />
     <Button
+        android:text="清除"
         android:id="@+id/btn_login_clear"
         android:layout_width="match_parent"
         android:layout_height="40dp" />
