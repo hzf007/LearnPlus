@@ -15,7 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".demo2.view.Main2Activity"></activity>
+        <activity android:name=".demo2.view.Main2Activity" />
+        <activity android:name=".demo3.view.AdapterActivity" />
+        <activity android:name=".demo4.view.FragmentsActivity" />
+        <activity android:name=".demo5.view.EventBusActivity"></activity>
     </application>
 
 </manifest>

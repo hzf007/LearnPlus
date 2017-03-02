@@ -51,4 +51,10 @@ public class LoginPresenterImpl implements ILoginPresenter {
     public void setProgressBarVisiblity(int visiblity) {
         loginView.onSetProgressBarVisibility(visiblity);
     }
+
+    @Override
+    public void onDestroy() {
+        loginView = null;
+        //避免Activity泄漏
+    }
 }

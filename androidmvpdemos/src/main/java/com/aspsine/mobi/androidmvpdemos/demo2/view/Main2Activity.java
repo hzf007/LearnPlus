@@ -80,5 +80,6 @@ public class Main2Activity extends Activity implements ILoginView,View.OnClickLi
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        loginPresenter.onDestroy();
     }
 }
